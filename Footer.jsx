@@ -4,7 +4,7 @@ function Footer()
 {
   return(
     <footer>
-      <p>Copyright ShapeAI @ {new Date().getFullYear()}</p>
+      <p>Copyright Rara @ {new Date().getFullYear()}</p>
     </footer>
   );
 }
