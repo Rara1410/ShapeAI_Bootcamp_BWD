@@ -4,7 +4,7 @@ function Header()
 {
   return(
   <header>
-      <h1>ShapeAI Bootcamp</h1>
+      <h1>dApp</h1>
   </header>
   );
 }
