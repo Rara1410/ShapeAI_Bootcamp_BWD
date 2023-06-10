@@ -5,7 +5,7 @@ function Info()
   return(
     <div className="note">
      <h1>Javascript And React.js</h1>
-     <p>Its An Bootcamp On basic React.js For 7 Days</p>
+     <p>This dAPP is deploy in spheron #SOSS.</p>
     </div>
   );
 }
